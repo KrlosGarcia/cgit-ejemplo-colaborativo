@@ -1,0 +1,7 @@
+total 12K
+-rw-r--r-- 1 197609 12K Apr 19 20:25 habilidadesBlandas.docx
+-rw-r--r-- 1 197609   0 Apr 19 20:28 listado.txt
+
+
+
+hola
