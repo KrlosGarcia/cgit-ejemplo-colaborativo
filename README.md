@@ -1,3 +1,3 @@
 Capacitacion de GIT
 
-hola
+Carlos Garcia (con firma)
