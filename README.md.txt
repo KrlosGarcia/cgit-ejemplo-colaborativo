@@ -1,3 +1,0 @@
-Capacitacion de GIT
-
-hola
